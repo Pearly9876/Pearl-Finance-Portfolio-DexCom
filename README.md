@@ -14,6 +14,8 @@ This project demonstrates my financial analysis process, from historical financi
 - [Forecasting](#forecasting)
 - [Scenario Analysis](#scenario-analysis)
 - [Key Insights](#key-insights)
+- [Dashboard](#dashboard)
+- [Project files](#project-files)
 
 ---
 
@@ -21,29 +23,36 @@ This project demonstrates my financial analysis process, from historical financi
 
 This project analyses DexCom's historical financial performance and develops a forward-looking FP&A model.
 
-The project covers:
 
-- Historical financial analysis
-- Revenue and margin trends
-- Business driver analysis
-- Financial forecasting
-- Scenario planning
-- Management insights
+| Area | Details |
+|---|---|
+| Company | DexCom |
+| Project Type | FP&A / Financial Analysis |
+| Historical Period | 2017–2025 |
+| Forecast Period | 2026–2030 |
+| Key Analysis | Revenue growth, margins, cash flow, CapEx, working capital |
+| Forecasting | Driver-based financial forecast |
+| Scenario Planning | Base Case, Upside Case, Downside Case |
+| Tools | Excel, SEC filings, GitHub |
+| Final Output | Financial model, scenario analysis and business insights |
 
 ---
 
 ## Historical Analysis
 
-Historical financial statements were collected and standardised to understand the company's performance over time.
+I used historical financial data to understand how DexCom's performance evolved before building the forecast.
 
-Key areas analysed:
+### Analysis Framework
 
-- Revenue growth
-- Gross margin
-- Operating margin
-- Cash flow
-- Capital expenditure
-- Working capital
+| Step | Area | What I Analysed | Output |
+|---|---|---|---|
+| 1 | Growth & Profitability | Revenue, gross margin, operating margin, R&D and SG&A | Growth and margin trend |
+| 2 | Cash Flow & Reinvestment | Operating cash flow, CapEx, free cash flow, cash conversion | Cash generation and reinvestment trend |
+| 3 | Working Capital | Accounts receivable, inventory, accounts payable, AR days and inventory days | Working capital efficiency trend |
+
+### Key Question
+
+> Has DexCom's revenue growth translated into stronger profitability and sustainable cash flow?
 
 ---
 
@@ -110,3 +119,15 @@ The objective is not only to calculate numbers, but also to understand:
 > What could change the forecast?
 
 > What should management monitor?
+
+
+---
+
+## Dashboard
+
+---
+
+
+## Project files
+
+---
