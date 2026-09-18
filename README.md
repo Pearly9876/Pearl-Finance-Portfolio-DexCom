@@ -1,8 +1,8 @@
-# 📊 DexCom Finance analyst Project
+# 📊 DexCom Finance Analyst Project
 
 ## Objective
 
-In this project, I have done my research about diabtes for the next 5 to 10 years and found out this Company invest about technology which is intesreting
+The objective of this project is to analyse DexCom's historical financial performance, identify the key business drivers, and build a forward-looking financial forecast with scenario analysis.
 
 ---
 
@@ -52,15 +52,17 @@ The analysis is based on DexCom's publicly available financial information, incl
 
 ## Why Dexcom
 
-I chose Dexcom after researching the long-term growth of diabetes and the increasing use of technology in healthcare.
+I chose DexCom after researching the long-term growth of diabetes and the increasing use of technology in healthcare.
 
-Diabetes is expected to remain a major health issue over the next few decades. It is influenced by several factors, including lifestyle, ageing, and genetics, which creates an ongoing need for better glucose monitoring.The company focuses on continuous glucose monitoring (CGM), which allows users to track their glucose levels in real time.
+Diabetes is expected to remain a major global health issue over the coming decades. Its prevalence is influenced by factors including ageing, lifestyle and genetics, creating an ongoing need for better glucose monitoring solutions.
 
-This made Dexcom an interesting company for my FP&A project because its growth is connected to three key areas:
+DexCom focuses on continuous glucose monitoring (CGM), which allows users to track glucose levels in real time.
 
-**Growing diabetes population → Increasing adoption of CGM technology → Potential expansion of Dexcom's addressable market**
+This made DexCom an interesting company for my FP&A project because its growth is connected to three key areas:
 
-Rather than analyzing the company purely from its historical financial performance, I wanted to understand whether these underlying business drivers could support future revenue growth, margins, and cash flow.
+**Growing diabetes population → Increasing adoption of CGM technology → Potential expansion of DexCom's addressable market**
+
+Rather than analysing the company only from its historical financial performance, I wanted to understand whether these underlying business drivers could support future revenue growth, margins and cash flow.
 
 ---
 
@@ -89,97 +91,125 @@ I used AI-assisted data extraction to collect historical financial data, then in
 
 ### Step 1 — Growth & Profitability
 
-**Question:** Is revenue growth translating into stronger profitability?
+**Business question:** Is revenue growth translating into stronger profitability?
 
-**Metrics reviewed:**
-- Revenue growth
-- Gross margin
-- Operating margin
-- R&D / Revenue
-- SG&A / Revenue
+![Revenue and Margin Trend](images/revenue-margin-trend.png)
 
-**Output:** Historical revenue and margin trend analysis
+**Key insights**
+- Revenue maintained a strong long-term growth trajectory.
+- Gross margin fluctuated despite continued revenue expansion.
+- Operating margin improved as revenue scaled, although investment in R&D and SG&A remained significant.
 
-![Revenue and Margin Trend](images/historical-growth-margin.png)
+**Metrics:** Revenue growth · Gross margin · Operating margin · R&D / Revenue · SG&A / Revenue
 
 ### Step 2 — Cash Flow & Reinvestment
 
-**Question:** Is accounting profit converting into cash?
+**Business question:** Is profit translating into sustainable cash generation?
 
-**Metrics reviewed:**
-- Operating cash flow
-- CapEx
-- Free cash flow
-- Cash conversion
+![Cash Flow Trend](images/cash-flow-trend.png)
 
-**Output:** Cash flow and reinvestment analysis
+**Key insights**
+- Operating cash flow strengthened over the historical period.
+- Capital expenditure remained significant as DexCom continued investing in operating capacity.
+- Free cash flow improved as operating cash generation outpaced reinvestment.
+
+**Metrics:** Operating cash flow · CapEx · Free cash flow · Cash conversion
 
 ### Step 3 — Working Capital
 
-**Question:** Is growth requiring more working capital?
+**Business question:** How is business growth affecting working capital requirements?
 
-**Metrics reviewed:**
-- Accounts receivable
-- Inventory
-- Accounts payable
-- AR days
-- Inventory days
+![Working Capital Trend](images/working-capital-trend.png)
 
-**Output:** Working capital efficiency analysis
+**Key insights**
+- Receivables and inventory moved materially as the business expanded.
+- AR days and inventory days were not stable across the historical period.
+- These movements were reviewed as potential assumptions for the forecast.
+
+**Metrics:** Accounts receivable · Inventory · Accounts payable · AR days · Inventory days
  
 ---
 
 ## Driver Analysis
 
-The next step was to identify the key factors driving financial performance.
+In this step, I reviewed DexCom's management discussion and annual reports to identify the key drivers behind revenue, gross margin and operating expenses.
 
-Examples include:
+I focused on understanding which drivers were recurring and structural, and which were temporary or one-off items. This included revenue growth, product and channel mix, manufacturing costs, R&D, SG&A and other operating expenses.
 
-- Revenue growth
-- Product demand
-- Gross margin
-- Operating expenses
-- CapEx
-- Working capital
+### Key Driver Findings
+
+| Area | Key Drivers Identified |
+|---|---|
+| Revenue | Customer growth, higher sensor volumes and market expansion |
+| Gross Margin | Product mix, channel mix, manufacturing efficiency and temporary charges |
+| R&D | Product development and technology investment |
+| SG&A | Commercial expansion, higher headcount and international growth |
+
+### Structural vs One-off Drivers
+
+| Structure& Recurring | Temporary & One - off |
+|---|---|
+| Customer and sensor volume growth | Inventory-related charges
+| R&D investment | Freight pressures
+|Sales and marketing spending |  Inventory damaged in transit
+|International expansion | Production yield issues
+
+### Key Insight
+
+Revenue growth appears to be mainly supported by expanding customer adoption and sensor volumes, while DexCom continues to invest heavily in R&D and commercial expansion.
+
+Some gross margin pressure was driven by temporary operational factors, while other costs reflect longer-term investment required to support growth.
 
 ---
 
 ## Forecasting
 
-A financial forecast was developed based on historical trends and business assumptions.
+In this stage, I developed a financial forecast for 2026–2030 based on DexCom's historical performance and the key business drivers identified in the previous analysis.
 
-Forecast period:
+I used CFI's three-statement modelling tutorial as a learning reference to understand the forecasting structure and logic. I then adapted the framework to DexCom and built the forecast assumptions step by step in Excel.
 
-**2026–2030**
+[Financial Modeling Tutorial | Build a Three-Statement Model in 30 Minutes with CFI CEO Tim Vipond](https://www.youtube.com/watch?v=UMYDxmiVin4&t=1247s)
 
-The forecast includes:
+### Forecasting Process
 
-- Revenue
-- Gross profit
-- Operating expenses
-- Operating income
-- Cash flow
-- CapEx
+1. Reviewed historical financial trends and key business drivers.
+2. Identified the assumptions required for each financial statement.
+3. Built forecast assumptions for revenue, margins, operating expenses, working capital and CapEx.
+4. Linked the assumptions into the P&L, Balance Sheet and Cash Flow Statement.
+5. Checked that the three financial statements remained internally consistent.
+6. Used the completed model as the base for scenario analysis.
 
+### Key Forecast Assumptions
+
+| Area | Forecast Driver |
+|---|---|
+| Revenue | Historical growth + business outlook |
+| Gross Margin | Historical margin trend + operational drivers |
+| R&D | % of revenue |
+| SG&A | % of revenue |
+| Working Capital | AR, inventory and payable assumptions |
+| CapEx | % of revenue |
+| D&A | Linked to PPE / historical trend |
+| Tax | Effective tax rate |
+
+### Forecast Assumption Model
+
+![Forecast Assumptions](images/forecast-assumptions.png)
+
+The assumption sheet acts as the control centre of the model, allowing key drivers to flow through the three financial statements.
 
 
 ---
 
 ## Scenario Analysis
 
-Three scenarios were developed:
+I developed three scenarios — Base, Upside and Downside — using a single scenario selector linked to the forecast assumptions.
 
-### Base Case
+By changing one input, the model updates the key assumptions and flows through the P&L, Balance Sheet and Cash Flow Statement automatically.
 
-Represents the most reasonable operating assumptions.
+The scenario analysis focuses on the assumptions that have the greatest impact on financial performance, including revenue growth, margins, operating expenses, working capital and CapEx.
 
-### Upside Case
-
-Assumes stronger revenue growth and operating performance.
-
-### Downside Case
-
-Assumes slower growth and more conservative margin performance.
+*****
 
 ---
 
