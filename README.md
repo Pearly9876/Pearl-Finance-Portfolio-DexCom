@@ -96,9 +96,9 @@ I used AI-assisted data extraction to collect historical financial data, then in
 ![Revenue and Margin Trend](images/revenue-margin-trend.png)
 
 **Key insights**
-- Revenue maintained a strong long-term growth trajectory.
-- Gross margin fluctuated despite continued revenue expansion.
-- Operating margin improved as revenue scaled, although investment in R&D and SG&A remained significant.
+- Revenue maintained strong long-term growth, although annual growth has moderated as the business scaled.
+- Gross margin remained relatively resilient despite some compression, while operating profitability improved significantly.
+- SG&A and R&D declined as a percentage of revenue, indicating stronger operating leverage as the business scaled.
 
 **Metrics:** Revenue growth · Gross margin · Operating margin · R&D / Revenue · SG&A / Revenue
 
