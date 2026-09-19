@@ -109,9 +109,9 @@ I used AI-assisted data extraction to collect historical financial data, then in
 ![Cash Flow Trend](images/cash-flow-trend.png)
 
 **Key insights**
-- Operating cash flow strengthened over the historical period.
-- Capital expenditure remained significant as DexCom continued investing in operating capacity.
-- Free cash flow improved as operating cash generation outpaced reinvestment.
+- CFO margin improved over time, showing stronger cash conversion as the business scaled.
+- CapEx remained elevated as Dexcom continued investing in manufacturing capacity and operational expansion.
+- Despite continued reinvestment, free cash flow expanded, indicating improving cash efficiency.
 
 **Metrics:** Operating cash flow · CapEx · Free cash flow · Cash conversion
 
