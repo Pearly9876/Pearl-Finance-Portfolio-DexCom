@@ -91,16 +91,29 @@ I used AI-assisted data extraction to collect historical financial data, then in
 
 ### Step 1 — Growth & Profitability
 
-**Business question:** Is revenue growth translating into stronger profitability?
+**Business question:** How has Dexcom's cost structure evolved as revenue growth moderated?
 
-![Revenue and Margin Trend](images/revenue-margin-trend.png)
+[ Chart 1A — Revenue Growth vs Cost Structure ]
+Historical performance | 2018–2025
+
+<img width="897" height="497" alt="image" src="https://github.com/user-attachments/assets/9a825287-8ad2-4601-9a46-e339fbf98205" />
+
 
 **Key insights**
-- Revenue maintained strong long-term growth, although annual growth has moderated as the business scaled.
-- Gross margin remained relatively resilient despite some compression, while operating profitability improved significantly.
-- SG&A and R&D declined as a percentage of revenue, indicating stronger operating leverage as the business scaled.
+- Revenue growth moderated as the business scaled, declining from above 40% in 2018–2019 to 16% in 2025.
+- SG&A declined from 42% to 28% of revenue, while R&D decreased from 19% to 13%, indicating improving operating leverage as revenue scaled.
+- In contrast, COGS increased to 40% of revenue by 2025, suggesting that gross-margin pressure remained despite improved operating expense efficiency.
 
-**Metrics:** Revenue growth · Gross margin · Operating margin · R&D / Revenue · SG&A / Revenue
+**Metrics:** Revenue growth · COGS / Revenue · R&D / Revenue · SG&A / Revenue
+
+[ Chart 1B — Profitability Trend ]
+Historical performance | 2018–2025
+
+<img width="721" height="436" alt="image" src="https://github.com/user-attachments/assets/14480a34-c55c-4805-a7f4-ad9667f63d32" />
+
+**Key insights**
+
+
 
 ### Step 2 — Cash Flow & Reinvestment
 
