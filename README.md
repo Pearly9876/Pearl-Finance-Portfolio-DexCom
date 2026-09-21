@@ -93,7 +93,7 @@ I used AI-assisted data extraction to collect historical financial data, then in
 
 **Business question:** How has Dexcom's cost structure evolved as revenue growth moderated?
 
-[ Chart 1A — Revenue Growth vs Cost Structure ]
+***[ Chart 1A — Revenue Growth vs Cost Structure ]***
 Historical performance | 2018–2025
 
 <img width="897" height="497" alt="image" src="https://github.com/user-attachments/assets/9a825287-8ad2-4601-9a46-e339fbf98205" />
@@ -106,13 +106,15 @@ Historical performance | 2018–2025
 
 **Metrics:** Revenue growth · COGS / Revenue · R&D / Revenue · SG&A / Revenue
 
-[ Chart 1B — Profitability Trend ]
+***[ Chart 1B — Profitability Trend ]***
 Historical performance | 2018–2025
 
 <img width="721" height="436" alt="image" src="https://github.com/user-attachments/assets/14480a34-c55c-4805-a7f4-ad9667f63d32" />
 
 **Key insights**
-
+- Gross margin remained relatively stable, although it softened from its peak in 2020–2021.
+- Operating leverage improved as SG&A and R&D declined as a percentage of revenue, helping operating margin expand significantly over time.
+- Net margin also strengthened and moved closer to operating margin by 2025, suggesting that revenue growth was translating into stronger overall profitability.
 
 
 ### Step 2 — Cash Flow & Reinvestment
