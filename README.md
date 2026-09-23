@@ -121,14 +121,14 @@ Historical performance | 2018–2025
 
 **Business question:** Is profit translating into sustainable cash generation?
 
-![Cash Flow Trend](images/cash-flow-trend.png)
+<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/06e6c240-bfdb-4388-b3ca-146f4be23c08" />
+
+
 
 **Key insights**
-- CFO margin improved over time, showing stronger cash conversion as the business scaled.
-- CapEx remained elevated as Dexcom continued investing in manufacturing capacity and operational expansion.
-- Despite continued reinvestment, free cash flow expanded, indicating improving cash efficiency.
+CFO and CFO margin improved over time, while CapEx remained manageable relative to operating cash generation. As a result, FCF stayed positive and expanded, showing that the business could continue reinvesting without weakening cash generation.
 
-**Metrics:** Operating cash flow · CapEx · Free cash flow · Cash conversion
+**Metrics:** CFO · CapEx · FCF · CFO Margin
 
 ### Step 3 — Working Capital
 
