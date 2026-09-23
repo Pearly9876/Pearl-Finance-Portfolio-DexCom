@@ -96,7 +96,7 @@ I used AI-assisted data extraction to collect historical financial data, then in
 ***[ Chart 1A — Revenue Growth vs Cost Structure ]***
 Historical performance | 2018–2025
 
-<img width="897" height="497" alt="image" src="https://github.com/user-attachments/assets/9a825287-8ad2-4601-9a46-e339fbf98205" />
+<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/9a825287-8ad2-4601-9a46-e339fbf98205" />
 
 
 **Key insights**
@@ -109,7 +109,7 @@ Historical performance | 2018–2025
 ***[ Chart 1B — Profitability Trend ]***
 Historical performance | 2018–2025
 
-<img width="721" height="436" alt="image" src="https://github.com/user-attachments/assets/14480a34-c55c-4805-a7f4-ad9667f63d32" />
+<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/14480a34-c55c-4805-a7f4-ad9667f63d32" />
 
 **Key insights**
 - Gross margin remained relatively stable, although it softened from its peak in 2020–2021.
@@ -134,14 +134,14 @@ Historical performance | 2018–2025
 
 **Business question:** How is business growth affecting working capital requirements?
 
-![Working Capital Trend](images/working-capital-trend.png)
+<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/e3aacc19-fb0d-4d86-8355-0f6616c4ea28" />
+<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/5d146f10-e9fe-4ba5-a9bf-54176418cb43" />
+
 
 **Key insights**
-- Receivables and inventory moved materially as the business expanded.
-- AR days and inventory days were not stable across the historical period.
-- These movements were reviewed as potential assumptions for the forecast.
+Higher DSO and inventory days increased working capital requirements, while higher DPO partially offset the cash impact by allowing the company to retain cash for longer before paying suppliers. As a result, the cash conversion cycle remained low or negative in several years, helping support operating cash flow.
 
-**Metrics:** Accounts receivable · Inventory · Accounts payable · AR days · Inventory days
+**Metrics:** DSO · Inventory Days · DPO · Cash Conversion Cycle
  
 ---
 
