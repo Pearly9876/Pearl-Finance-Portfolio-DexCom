@@ -1,4 +1,4 @@
-# 📊 DexCom Finance Analyst Project
+ # 📊 DexCom Finance Analyst Project
 
 ## Objective
 
@@ -153,27 +153,25 @@ I focused on understanding which drivers were recurring and structural, and whic
 
 ### Key Driver Findings
 
-| Area | Key Drivers Identified |
-|---|---|
-| Revenue | Customer growth, higher sensor volumes and market expansion |
-| Gross Margin | Product mix, channel mix, manufacturing efficiency and temporary charges |
-| R&D | Product development and technology investment |
-| SG&A | Commercial expansion, higher headcount and international growth |
+| Area | Key Drivers | Forecast linkage | 
+|---|---|---|
+| Revenue | Installed base + sensor volume | Revenue growth
+| Gross Margin | Product/channel mix + manufacturing efficiency | Gross margin %
+| R&D | Product development / technology investment | R&D % revenue
+| SG&A | Commercialization + headcount + expansion | SG&A % revenue 
 
 ### Structural vs One-off Drivers
 
 | Structure& Recurring | Temporary & One - off |
 |---|---|
-| Customer and sensor volume growth | Inventory-related charges
-| R&D investment | Freight pressures
-|Sales and marketing spending |  Inventory damaged in transit
-|International expansion | Production yield issues
+| Sensor volume / installed base growth | Inventory-related charges
+| R&D investment | Inventory damaged in transit
+| Commercialization / marketing |  Specific freight spikes
+| International expansion | Temporary yield / production issues
 
 ### Key Insight
 
-Revenue growth appears to be mainly supported by expanding customer adoption and sensor volumes, while DexCom continues to invest heavily in R&D and commercial expansion.
-
-Some gross margin pressure was driven by temporary operational factors, while other costs reflect longer-term investment required to support growth.
+Revenue growth was primarily supported by sensor volume and installed-base expansion, while product/channel mix and manufacturing efficiency were recurring gross-margin drivers. R&D and commercialization remained structural investments supporting long-term growth, whereas inventory-related charges and certain freight/yield issues were treated as temporary factors rather than long-term forecast drivers.
 
 ---
 
